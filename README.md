@@ -13,4 +13,5 @@ App has a selection of audience reactions as buttons that, when clicked, play a 
 - Beautify
 - Submit to App Store
 
-![screen shot 2018-12-09 at 2 14 00 pm](https://user-images.githubusercontent.com/21090906/49702439-b04c9600-fbbd-11e8-9017-8f7c30a02fe3.png)
+![screen shot 2018-12-09 at 2 38 16 pm](https://user-images.githubusercontent.com/21090906/49702646-19350d80-fbc0-11e8-8165-bebdfe1804dc.png)
+
