@@ -6,6 +6,9 @@ Swift app for iOS to play audience laughs for when you're really funny, but the 
 ## Tech Stack
 - Swift
 
+## What's the Point?
+App has a selection of audience reactions as buttons that, when clicked, play a .wav file.
+
 ## What's Next?
 - Beautify
 - Submit to App Store
