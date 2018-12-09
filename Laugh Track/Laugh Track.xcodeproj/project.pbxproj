@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CD0FB3AC21BD98B600FB40D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0FB3AB21BD98B600FB40D9 /* AppDelegate.swift */; };
+		CD0FB3AE21BD98B600FB40D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD0FB3AD21BD98B600FB40D9 /* ViewController.swift */; };
+		CD0FB3B121BD98B600FB40D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3AF21BD98B600FB40D9 /* Main.storyboard */; };
+		CD0FB3B321BD98B700FB40D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3B221BD98B700FB40D9 /* Assets.xcassets */; };
+		CD0FB3B621BD98B700FB40D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3B421BD98B700FB40D9 /* LaunchScreen.storyboard */; };
+		CD0FB3DA21BD9E6300FB40D9 /* laugh_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */; };
+		CD0FB3DB21BD9E6300FB40D9 /* laugh_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */; };
+		CD0FB3DC21BD9E6300FB40D9 /* laugh_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */; };
+		CD0FB3DD21BD9E6300FB40D9 /* laugh_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */; };
+		CD0FB3DE21BD9E6300FB40D9 /* laugh_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CD0FB3A821BD98B600FB40D9 /* Laugh Track.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Laugh Track.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD0FB3AB21BD98B600FB40D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CD0FB3AD21BD98B600FB40D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CD0FB3B021BD98B600FB40D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CD0FB3B221BD98B700FB40D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CD0FB3B521BD98B700FB40D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CD0FB3B721BD98B700FB40D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_5.wav; sourceTree = "<group>"; };
+		CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_4.wav; sourceTree = "<group>"; };
+		CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = laugh_2.wav; path = ../../../../../Downloads/laugh_2.wav; sourceTree = "<group>"; };
+		CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = laugh_3.wav; path = ../../../../../Downloads/laugh_3.wav; sourceTree = "<group>"; };
+		CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_1.wav; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CD0FB3A521BD98B600FB40D9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CD0FB39F21BD98B600FB40D9 = {
+			isa = PBXGroup;
+			children = (
+				CD0FB3AA21BD98B600FB40D9 /* Laugh Track */,
+				CD0FB3A921BD98B600FB40D9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CD0FB3A921BD98B600FB40D9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CD0FB3A821BD98B600FB40D9 /* Laugh Track.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CD0FB3AA21BD98B600FB40D9 /* Laugh Track */ = {
+			isa = PBXGroup;
+			children = (
+				CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */,
+				CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */,
+				CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */,
+				CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */,
+				CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */,
+				CD0FB3AB21BD98B600FB40D9 /* AppDelegate.swift */,
+				CD0FB3AD21BD98B600FB40D9 /* ViewController.swift */,
+				CD0FB3AF21BD98B600FB40D9 /* Main.storyboard */,
+				CD0FB3B221BD98B700FB40D9 /* Assets.xcassets */,
+				CD0FB3B421BD98B700FB40D9 /* LaunchScreen.storyboard */,
+				CD0FB3B721BD98B700FB40D9 /* Info.plist */,
+			);
+			path = "Laugh Track";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CD0FB3A721BD98B600FB40D9 /* Laugh Track */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD0FB3BA21BD98B700FB40D9 /* Build configuration list for PBXNativeTarget "Laugh Track" */;
+			buildPhases = (
+				CD0FB3A421BD98B600FB40D9 /* Sources */,
+				CD0FB3A521BD98B600FB40D9 /* Frameworks */,
+				CD0FB3A621BD98B600FB40D9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Laugh Track";
+			productName = "Laugh Track";
+			productReference = CD0FB3A821BD98B600FB40D9 /* Laugh Track.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CD0FB3A021BD98B600FB40D9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1010;
+				LastUpgradeCheck = 1010;
+				ORGANIZATIONNAME = "Sara Gerou";
+				TargetAttributes = {
+					CD0FB3A721BD98B600FB40D9 = {
+						CreatedOnToolsVersion = 10.1;
+					};
+				};
+			};
+			buildConfigurationList = CD0FB3A321BD98B600FB40D9 /* Build configuration list for PBXProject "Laugh Track" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CD0FB39F21BD98B600FB40D9;
+			productRefGroup = CD0FB3A921BD98B600FB40D9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CD0FB3A721BD98B600FB40D9 /* Laugh Track */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CD0FB3A621BD98B600FB40D9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD0FB3DE21BD9E6300FB40D9 /* laugh_1.wav in Resources */,
+				CD0FB3DA21BD9E6300FB40D9 /* laugh_5.wav in Resources */,
+				CD0FB3B621BD98B700FB40D9 /* LaunchScreen.storyboard in Resources */,
+				CD0FB3B321BD98B700FB40D9 /* Assets.xcassets in Resources */,
+				CD0FB3DB21BD9E6300FB40D9 /* laugh_4.wav in Resources */,
+				CD0FB3B121BD98B600FB40D9 /* Main.storyboard in Resources */,
+				CD0FB3DD21BD9E6300FB40D9 /* laugh_3.wav in Resources */,
+				CD0FB3DC21BD9E6300FB40D9 /* laugh_2.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CD0FB3A421BD98B600FB40D9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD0FB3AE21BD98B600FB40D9 /* ViewController.swift in Sources */,
+				CD0FB3AC21BD98B600FB40D9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CD0FB3AF21BD98B600FB40D9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD0FB3B021BD98B600FB40D9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CD0FB3B421BD98B700FB40D9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD0FB3B521BD98B700FB40D9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CD0FB3B821BD98B700FB40D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		CD0FB3B921BD98B700FB40D9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CD0FB3BB21BD98B700FB40D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 24Q7649NM8;
+				INFOPLIST_FILE = "Laugh Track/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jerrygerou.Laugh-Track";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CD0FB3BC21BD98B700FB40D9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 24Q7649NM8;
+				INFOPLIST_FILE = "Laugh Track/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.jerrygerou.Laugh-Track";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CD0FB3A321BD98B600FB40D9 /* Build configuration list for PBXProject "Laugh Track" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0FB3B821BD98B700FB40D9 /* Debug */,
+				CD0FB3B921BD98B700FB40D9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD0FB3BA21BD98B700FB40D9 /* Build configuration list for PBXNativeTarget "Laugh Track" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD0FB3BB21BD98B700FB40D9 /* Debug */,
+				CD0FB3BC21BD98B700FB40D9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CD0FB3A021BD98B600FB40D9 /* Project object */;
+}
