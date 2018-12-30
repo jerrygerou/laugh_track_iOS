@@ -14,9 +14,9 @@
 		CD0FB3B621BD98B700FB40D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3B421BD98B700FB40D9 /* LaunchScreen.storyboard */; };
 		CD0FB3DA21BD9E6300FB40D9 /* laugh_5.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */; };
 		CD0FB3DB21BD9E6300FB40D9 /* laugh_4.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */; };
-		CD0FB3DC21BD9E6300FB40D9 /* laugh_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */; };
-		CD0FB3DD21BD9E6300FB40D9 /* laugh_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */; };
 		CD0FB3DE21BD9E6300FB40D9 /* laugh_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */; };
+		CD48B7E421D91D30006ABBCC /* laugh_3.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD48B7E221D91D30006ABBCC /* laugh_3.wav */; };
+		CD48B7E521D91D30006ABBCC /* laugh_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = CD48B7E321D91D30006ABBCC /* laugh_2.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,9 +29,9 @@
 		CD0FB3B721BD98B700FB40D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_5.wav; sourceTree = "<group>"; };
 		CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_4.wav; sourceTree = "<group>"; };
-		CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = laugh_2.wav; path = ../../../../../Downloads/laugh_2.wav; sourceTree = "<group>"; };
-		CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = laugh_3.wav; path = ../../../../../Downloads/laugh_3.wav; sourceTree = "<group>"; };
 		CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_1.wav; sourceTree = "<group>"; };
+		CD48B7E221D91D30006ABBCC /* laugh_3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_3.wav; sourceTree = "<group>"; };
+		CD48B7E321D91D30006ABBCC /* laugh_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = laugh_2.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,8 +65,8 @@
 			isa = PBXGroup;
 			children = (
 				CD0FB3D921BD9E6300FB40D9 /* laugh_1.wav */,
-				CD0FB3D721BD9E6300FB40D9 /* laugh_2.wav */,
-				CD0FB3D821BD9E6300FB40D9 /* laugh_3.wav */,
+				CD48B7E321D91D30006ABBCC /* laugh_2.wav */,
+				CD48B7E221D91D30006ABBCC /* laugh_3.wav */,
 				CD0FB3D621BD9E6200FB40D9 /* laugh_4.wav */,
 				CD0FB3D521BD9E6200FB40D9 /* laugh_5.wav */,
 				CD0FB3AB21BD98B600FB40D9 /* AppDelegate.swift */,
@@ -139,12 +139,12 @@
 			files = (
 				CD0FB3DE21BD9E6300FB40D9 /* laugh_1.wav in Resources */,
 				CD0FB3DA21BD9E6300FB40D9 /* laugh_5.wav in Resources */,
+				CD48B7E421D91D30006ABBCC /* laugh_3.wav in Resources */,
 				CD0FB3B621BD98B700FB40D9 /* LaunchScreen.storyboard in Resources */,
 				CD0FB3B321BD98B700FB40D9 /* Assets.xcassets in Resources */,
+				CD48B7E521D91D30006ABBCC /* laugh_2.wav in Resources */,
 				CD0FB3DB21BD9E6300FB40D9 /* laugh_4.wav in Resources */,
 				CD0FB3B121BD98B600FB40D9 /* Main.storyboard in Resources */,
-				CD0FB3DD21BD9E6300FB40D9 /* laugh_3.wav in Resources */,
-				CD0FB3DC21BD9E6300FB40D9 /* laugh_2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
